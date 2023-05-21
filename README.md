@@ -8,7 +8,7 @@
 Я начинающий разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 На данный момент активно изучаю Python, Java. Имею опыт в веб разработке. Пишу сайты, ботов, скрипты, софты!
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/CoderLike) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:admin@noziss.ru)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-NoZiss-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/CoderLike)
 
 ---
 
